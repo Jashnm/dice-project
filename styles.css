@@ -45,7 +45,7 @@ a {
 }
 
 input {
-  background-color: #4ECCA3;
+  background-color: #540e33;
   border: none;
   color: #EEEEEE;
   padding: 12px 20px;
@@ -53,5 +53,5 @@ input {
 
 }
 input:hover {
-  background-color: #4ECAA5;
+  background-color: #50b6bb;
 }
